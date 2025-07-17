@@ -1,2 +1,4 @@
 Ex[[:space:]]1 filter=lfs diff=lfs merge=lfs -text
 lhy filter=lfs diff=lfs merge=lfs -text
+Y filter=lfs diff=lfs merge=lfs -text
+a filter=lfs diff=lfs merge=lfs -text
